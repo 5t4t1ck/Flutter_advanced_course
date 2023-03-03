@@ -1,16 +1,4 @@
-# trips_advanced
+##ChatGPT-powered Flutter Chatbot - Your personal assistant for all your needs
 
-Platzi trip advanced
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://raw.githubusercontent.com/5t4t1ck/Flutter_advanced_course/master/.github/images/.github/images/image001.jpg)
+![image](https://raw.githubusercontent.com/5t4t1ck/Flutter_advanced_course/master/.github/images/.github/images/image002.jpg)
